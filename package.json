@@ -23,6 +23,7 @@
   },
   "packageManager": "yarn@4.3.0",
   "dependencies": {
+    "@babel/core": "^7.24.8",
     "semver": "^7.6.2"
   }
 }
